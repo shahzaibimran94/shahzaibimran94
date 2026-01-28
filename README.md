@@ -82,7 +82,7 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibimran94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -97,29 +97,26 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=shahzaibimran94&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
----
+--- -->
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaibimran94&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
+--- -->
 
-## 🎨 Coding Activity
+<!-- ## 🎨 Coding Activity
 
 <div align="center">
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
   
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shahzaibimran94&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </div>
 
----
+--- -->
 
-## 🏆 GitHub Profile Summary Cards
+<!-- ## 🏆 GitHub Profile Summary Cards
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahzaibimran94&theme=tokyo_night" alt="Profile Details" />
@@ -129,9 +126,9 @@ const developer = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahzaibimran94&theme=tokyo_night&utcOffset=8" alt="Productive Time" />
 </div>
 
----
+--- -->
 
-## 🔥 Current Projects
+<!-- ## 🔥 Current Projects
 
 <div align="center">
   
@@ -155,15 +152,15 @@ const developer = {
   </table>
 </div>
 
----
+--- -->
 
-## 💡 LeetCode & Coding Challenges
+<!-- ## 💡 LeetCode & Coding Challenges
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/shahzaibimran94?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
 </div>
 
----
+--- -->
 
 ## 📝 Latest Blog Posts
 
@@ -181,7 +178,7 @@ const developer = {
   <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/shahzaibimran94" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://dev.to/YOUR_USERNAME" target="_blank">
@@ -216,13 +213,13 @@ const developer = {
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shahzaibimran94/shahzaibimran94/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
+--- -->
 
 ## ⚡ Fun Facts
 
