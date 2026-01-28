@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=✨%20Your%20Name%20✨&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&width=100%&section=header&text=✨%20Shahzaib%20Imran%20✨&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Full+Stack+Developer;+Open+Source+Enthusiast;+Problem+Solver;+Tech+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Full+Stack+Engineer;+Open+Source+Enthusiast;+Problem+Solver;+Tech+Innovator" />
 </div>
 
 ---
@@ -16,12 +16,12 @@
 
 ```typescript
 const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer",
-  location: "🌍 Your Location",
+  name: "Shahzaib Imran",
+  role: "Full Stack Engineer",
+  location: "🌍 London, United Kingdom",
   currentFocus: "Building amazing projects",
   learning: ["Advanced Algorithms", "Cloud Architecture", "AI/ML"],
-  hobbies: ["Coding", "Reading", "Gaming", "Photography"],
+  hobbies: ["Coding", "Reading", "Sport", "Photography"],
   funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
@@ -41,6 +41,10 @@ const developer = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 </div>
 
 ### Databases & Cloud
@@ -49,6 +53,9 @@ const developer = {
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
@@ -57,9 +64,20 @@ const developer = {
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+### Workflow Automation
+<div align="center">
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" />
 </div>
 
 ---
@@ -67,16 +85,16 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahzaibimran94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibimran94&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=shahzaibimran94&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahzaibimran94&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -84,7 +102,7 @@ const developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaibimran94&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -96,7 +114,7 @@ const developer = {
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shahzaibimran94&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ---
@@ -104,11 +122,11 @@ const developer = {
 ## 🏆 GitHub Profile Summary Cards
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyo_night" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyo_night" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyo_night" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyo_night" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyo_night&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahzaibimran94&theme=tokyo_night" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahzaibimran94&theme=tokyo_night" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahzaibimran94&theme=tokyo_night" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahzaibimran94&theme=tokyo_night" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahzaibimran94&theme=tokyo_night&utcOffset=8" alt="Productive Time" />
 </div>
 
 ---
@@ -124,13 +142,13 @@ const developer = {
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahzaibimran94&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
         </div>
       </td>
       <td width="50%">
         <h3 align="center">Project 2</h3>
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahzaibimran94&repo=REPO_NAME&theme=tokyonight&hide_border=true" />
         </div>
       </td>
     </tr>
@@ -142,15 +160,7 @@ const developer = {
 ## 💡 LeetCode & Coding Challenges
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
-</div>
-
----
-
-## 🎵 Spotify Now Playing
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&unique={true|false}&count={5}" alt="Spotify Now Playing" />
+  <img src="https://leetcard.jacoblin.cool/shahzaibimran94?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -187,7 +197,7 @@ const developer = {
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2026
 
 - [ ] Contribute to 10+ open source projects
 - [ ] Build 5 major projects
@@ -209,7 +219,7 @@ const developer = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shahzaibimran94/shahzaibimran94/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -230,7 +240,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shahzaibimran94&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
