@@ -165,6 +165,8 @@ const developer = {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why MongoDB?] (https://medium.com/@shahzaib.imran94/why-mongodb-27b3f0e02b49)
+- [React: useEffects– Minimise Usage Where Possible] (https://medium.com/@shahzaib.imran94/react-useeffects-minimise-usage-where-possible-4d68f2886441)
 <!-- BLOG-POST-LIST:END -->
 
 ---
